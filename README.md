@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Jahid Hasan from Bangladesh.
 - 👀 I’m interested in Web Development and Blockchain.
-- 🌱 I’m currently learning Blockchain and Python. I just making web application based on my knowledge on JavaScritpt, ReactJS, ExpressJS and MongoDB as well.
+- 🌱 I’m currently learning Blockchain and Python. Beside that I am making web application by using JavaScritpt, ReactJS, ExpressJS and MongoDB.
 - 💞️ I’m looking to collaborate on full stack web development with ReactJS and MongoDB.
 - 📫 How to reach me
 
